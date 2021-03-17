@@ -1,0 +1,11 @@
+#ignore everything
+*
+
+#except
+!.gitignore
+!*.c
+!*.h
+!*.project
+!*.cproject
+!*.ccsproject
+!*.cmd
